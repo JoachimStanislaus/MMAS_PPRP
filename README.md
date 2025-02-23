@@ -2,6 +2,8 @@
 
 A final year project for the University of Exeter, using the Min-Max Ant System to solve the Police Patrol Routing Problem.
 
+Scored 80/100 for this paper.
+
 Supervisor: Dr Ayah Helal
 
 ## Project Description
